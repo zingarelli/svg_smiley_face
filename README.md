@@ -15,7 +15,7 @@ Componente que cria um rostinho feliz 😀
 
 ## Créditos 
 
-Este projeto foi criado durante as aulas iniciais do curso "Data Visualization with D3, JavaScript, React", feipo por [Curran Kelleher](https://www.youtube.com/channel/UCSwd_9jyX4YtDYm9p9MxQqw) e disponível no [Youtube (em inglês)](https://www.youtube.com/watch?v=2LhoCfjm8R4).
+Este projeto foi criado durante as aulas iniciais do curso "Data Visualization with D3, JavaScript, React", criado por [Curran Kelleher](https://www.youtube.com/channel/UCSwd_9jyX4YtDYm9p9MxQqw) e disponível no [Youtube (em inglês)](https://www.youtube.com/watch?v=2LhoCfjm8R4).
 
 ## Detalhes do projeto
 
@@ -41,9 +41,13 @@ Feito isso, o app pode ser iniciado em modo de desenvolvimento com o seguinte co
 
 O app irá rodar na URL http://127.0.0.1:5173.
 
+---
+
 ## Credits
 
 This project was created during the initial lessons of the course "Data Visualization with D3, JavaScript, React," provided by [Curran Kelleher](https://www.youtube.com/channel/UCSwd_9jyX4YtDYm9p9MxQqw) and available on [YouTube](https://www.youtube.com/watch?v=2LhoCfjm8R4).
+
+The translation of this README in English was generously provided by [OpenAI's GPT-3](https://openai.com) language model, later modified by me.
 
 ## Project Details
 
@@ -54,7 +58,6 @@ The `<SmileyFace />` component draws a smiley face using [SVG](https://developer
 The `<App />` component provides an example with configuration that includes some random values, creating 12 different faces using the same component. The result can be seen in the image illustrating this Readme.
 
 Each part of the face has been separated into other components, all available in the `/src` folder.
-
 
 ## Instalation
 
