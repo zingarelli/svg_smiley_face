@@ -7,7 +7,7 @@ Componente que cria um rostinho feliz 😀
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Smiley Face em SVG**
-| :label: Tecnologias | React, SVG, D3
+| :label: Tecnologias | React, D3, SVG
 | :rocket: URL         | https://smiley-face-svg-d3.vercel.app
 | :fire: Curso     | https://www.youtube.com/watch?v=2LhoCfjm8R4
 
